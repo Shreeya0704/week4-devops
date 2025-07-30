@@ -1,3 +1,5 @@
 Line 1: Initial note
 Line 2: Important update
 Line 3: Final update
+
+The version Git tried to apply from the commit being reverted
